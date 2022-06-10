@@ -1,0 +1,15 @@
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\bin\Debug\net6.0\Examen1.NET.exe
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\bin\Debug\net6.0\Examen1.NET.deps.json
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\bin\Debug\net6.0\Examen1.NET.runtimeconfig.json
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\bin\Debug\net6.0\Examen1.NET.dll
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\bin\Debug\net6.0\Examen1.NET.pdb
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.csproj.AssemblyReference.cache
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.AssemblyInfoInputs.cache
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.AssemblyInfo.cs
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.csproj.CoreCompileInputs.cache
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.dll
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\refint\Examen1.NET.dll
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.pdb
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\Examen1.NET.genruntimeconfig.cache
+C:\4toSemestre\visualNet\programas\Examen1.NET\Examen1.NET\obj\Debug\net6.0\ref\Examen1.NET.dll
